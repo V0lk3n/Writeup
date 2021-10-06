@@ -1,2 +1,2 @@
 # Writeup
-Here will be the repository of my writeup, on CTF, HackTheBox and more...
+Here you can find my collection of CTF's Writeup.
